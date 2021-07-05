@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<style type="text/css">
+table td {
+	vertical-align: top;
+}
+#message {
+	width: 400px;
+	margin: 0px auto;
+	padding: 10px 20px;
+	text-align: center;	
+	background-color: #0f9d58;
+	color: #fff;
+	border-radius: 3px;
+}
+#info {
+	max-width: 700px;
+	padding: 10px;
+	border: 1px solid #C0C0C0;
+	font-family: "Arial", "Helvetica", sans-serif;
+	font-size: 0.8em;
+}
+#info img {
+	display: block;
+	width: 240px;
+	max-width: 240px;
+	margin: 3px auto;
+}
+#download {
+	text-align: center;
+}
+#download ul {
+	margin: 0.8em 0 0 0;
+}
+#download ul li {
+	display: inline-block;
+}
+#download ul li a {
+	display: block !important;
+	width: 5.5em;
+	margin: 0 5px;
+	padding: 4px;
+	border: 1px solid blue;
+	border-radius: 7px;
+	text-decoration: none;
+	text-align: center;
+}
+.adsbygoogle {
+	margin: 7px;
+}
+</style>
+<script src="/jquery-latest.min.js"></script>
+</head>
+<body>
+<table width="100%" align="center" border="0">
+<tr>
+	<td class="ad"></td>
+	<td id="info">				<div id="download">
+		<h2><a href="http://31.42.184.140/main/2974000/a3ad228bf90310af5d70be365ec290d4/%28Very%20Short%20Introductions%29%20Alain%20Goriely%20-%20Applied%20Mathematics_%20A%20Very%20Short%20Introduction-Oxford%20University%20Press%20%282017%29.pdf">GET</a></h2>
+				<div><em>FASTER</em> Download from an IPFS distributed storage, choose any gateway:</div>
+		<ul>
+			<li><a href="https://cloudflare-ipfs.com/ipfs/bafykbzaceb2mgqvbx4kjqrshuvhpuk3swfglcxgu5reoyf5suk5fuiyjt3oye?filename=%28Very%20Short%20Introductions%29%20Alain%20Goriely%20-%20Applied%20Mathematics_%20A%20Very%20Short%20Introduction-Oxford%20University%20Press%20%282017%29.pdf">Cloudflare</a>
+			<li><a href="https://ipfs.io/ipfs/bafykbzaceb2mgqvbx4kjqrshuvhpuk3swfglcxgu5reoyf5suk5fuiyjt3oye?filename=%28Very%20Short%20Introductions%29%20Alain%20Goriely%20-%20Applied%20Mathematics_%20A%20Very%20Short%20Introduction-Oxford%20University%20Press%20%282017%29.pdf">IPFS.io</a>
+			<li><a href="https://ipfs.infura.io/ipfs/bafykbzaceb2mgqvbx4kjqrshuvhpuk3swfglcxgu5reoyf5suk5fuiyjt3oye?filename=%28Very%20Short%20Introductions%29%20Alain%20Goriely%20-%20Applied%20Mathematics_%20A%20Very%20Short%20Introduction-Oxford%20University%20Press%20%282017%29.pdf">Infura</a></li>
+		</ul>
+				</div>
+				<h1>Applied Mathematics: A Very Short Introduction</h1>
+		<div><img src="/covers/2974000/a3ad228bf90310af5d70be365ec290d4-g.jpg" alt="cover"></div>
+		<p>Author(s): Alain Goriely</p>		<p>Series: Very Short Introductions</p>		<p>Publisher: Oxford University Press, Year: 2017</p>
+		<p>ISBN: 9780191068881</p>		<p style="text-align:center"><a href="https://www.worldcat.org/search?qt=worldcat_org_bks&q=Applied%20Mathematics%3A%20A%20Very%20Short%20Introduction&fq=dt%3Abks">Search in WorldCat</a> | <a href="https://www.goodreads.com/search?utf8=✓&query=Applied%20Mathematics%3A%20A%20Very%20Short%20Introduction">Search in Goodreads</a> | <a href="https://www.abebooks.com/servlet/SearchResults?tn=Applied%20Mathematics%3A%20A%20Very%20Short%20Introduction&pt=book&cm_sp=pan-_-srp-_-ptbook">Search in AbeBooks</a> | <a href="https://www.amazon.com/s/?url=search-alias%3Dstripbooks&field-keywords=Applied%20Mathematics%3A%20A%20Very%20Short%20Introduction">Search in Amazon.com</a></p>
+						</td>
+	<td class="ad"></td>
+</tr>
+</table>
+</body>
+</html>
+n moral, religious, political, social, economic, and cultural fronts. During his time as a lawyer in South Africa he developed his strategy of non-violence: the idea of opposing unjust laws by non-violent protest. He led the Indian National Congress party in three major campaigns against British rule, each culminating in his arrest.<br /><br />In <em>Gandhi</em>, a short introduction to Gandhi's life and thought, Bhikhu Parekh outlines both Gandhi's major philosophical insights and the limitations of his thought. Written with extensive access to Gandhi's writings in Indian languages to which most commentators have little or no access, Parekh looks at Gandhi's cosmocentric anthropology, his spiritual view of politics, and his theories of oppression, non-violent action, and active citizenship. He also considers how the success of Gandhi's principles were limited by his lack of coherent theories of evil, and of state and power. Gandhi's view of man as ascetic allows no room for expressions of the cultural, artistic, or intellectual. Furthermore, he was so hostile to modern civilization that he was unable to appreciate its complex dialectic or offer a meaningful narrative.<br /><br />Nevertheless, Gandhi's life and thought had an enormous impact on the Indian nation, and he continues to be widely revered--known before and after his assassination as Mahatma, the Great Soul.<br /></div>		</td>
+	<td class="ad"></td>
+</tr>
+</table>
+</body>
+</html>
